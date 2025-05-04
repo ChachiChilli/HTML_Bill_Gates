@@ -1,0 +1,283 @@
+body{
+    background-color: black;
+}
+button{
+    background-color: black;
+}
+
+h1{
+    color:teal ;
+    font-family: "Italianno", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+h5{
+    text-align: right;
+    color: teal;
+}
+nav{
+    text-align: center;
+}
+p{
+    color: rgb(0, 128, 128)
+}
+a{
+    color: teal;
+}
+table, th, td{
+    border: 1px solid black;
+}
+body{
+    background-color: black;
+}
+button{
+    color: teal;
+    background-color: black;
+}
+
+h1{
+    color: teal;
+    text-align: center;
+}
+h2{
+    font-family: "Bungee Shade", sans-serif;
+     font-weight: 400;
+      font-style: normal;
+      color: teal;
+      text-align: center;
+}
+p{
+    color: teal;
+}
+ul > li{
+    list-style-type: "\1F5D7";
+    color: teal;
+}
+ol{
+    color: teal;
+}
+li{
+    color: teal;
+}
+dl{
+    color: teal;
+}
+a{
+    color:teal;
+}
+    
+form{
+    border: double teal 2px;
+}
+body{
+    background-color: black;
+}
+h1{
+    color:teal ;
+    font-family: "Italianno", cursive;
+    font-weight: 400;
+    font-style: normal;
+}
+p{
+    color: rgb(0, 128, 128)
+}               
+h3{
+    color:teal ;
+    font-family: "Italianno", cursive;
+    font-weight: 400;
+    font-style: normal;
+}     
+label{
+    color: teal;
+}   
+legend{
+    color: teal
+}      
+input{
+    color: teal;
+    background-color: black;
+}      
+textarea{
+    color: teal;
+    background-color: black;
+}
+a{
+    color:teal;
+}       
+
+.image_style{
+    border-radius: 30px;
+    border: inset teal 5px;
+    width: 300px;
+
+}
+
+
+
+/* CSS */
+.button-89 {
+  --b: 3px;   /* border thickness */
+  --s: .45em; /* size of the corner */
+  --color: teal;
+  margin-right:16px;
+
+  padding: calc(.5em + var(--s)) calc(.9em + var(--s));
+  color: var(--color);
+  --_p: var(--s);
+  background:
+    conic-gradient(from 90deg at var(--b) var(--b),#0000 90deg,var(--color) 0)
+    var(--_p) var(--_p)/calc(100% - var(--b) - 2*var(--_p)) calc(100% - var(--b) - 2*var(--_p));
+  transition: .3s linear, color 0s, background-color 0s;
+  outline: var(--b) solid #0000;
+  outline-offset: .6em;
+  font-size: 16px;
+
+  border: 0;
+
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button-89:hover,
+.button-89:focus-visible{
+  --_p: 0px;
+  outline-color: var(--color);
+  outline-offset: .05em;
+}
+
+.button-89:active {
+  background: var(--color);
+  color: #fff;
+}
+
+
+
+/* CSS */
+.button-891 {
+  --b: 3px;   /* border thickness */
+  --s: .45em; /* size of the corner */
+  --color: teal;
+  margin-right:16px;
+  
+  padding: calc(.5em + var(--s)) calc(.9em + var(--s));
+  color: var(--color);
+  --_p: var(--s);
+  background:
+    conic-gradient(from 90deg at var(--b) var(--b),#0000 90deg,var(--color) 0)
+    var(--_p) var(--_p)/calc(100% - var(--b) - 2*var(--_p)) calc(100% - var(--b) - 2*var(--_p));
+  transition: .3s linear, color 0s, background-color 0s;
+  outline: var(--b) solid #0000;
+  outline-offset: .6em;
+  font-size: 16px;
+
+  border: 0;
+
+  user-select: none;
+  -webkit-user-select: none;
+  touch-action: manipulation;
+}
+
+.button-891:hover,
+.button-891:focus-visible{
+  --_p: 0px;
+  outline-color: var(--color);
+  outline-offset: .05em;
+}
+
+.button-891:active {
+  background: var(--color);
+  color: #fff;
+}
+
+/* CSS */
+.button-892 {
+    --b: 3px;   /* border thickness */
+    --s: .45em; /* size of the corner */
+    --color: teal;
+    margin-right:16px;
+    
+    padding: calc(.5em + var(--s)) calc(.9em + var(--s));
+    color: var(--color);
+    --_p: var(--s);
+    background:
+      conic-gradient(from 90deg at var(--b) var(--b),#0000 90deg,var(--color) 0)
+      var(--_p) var(--_p)/calc(100% - var(--b) - 2*var(--_p)) calc(100% - var(--b) - 2*var(--_p));
+    transition: .3s linear, color 0s, background-color 0s;
+    outline: var(--b) solid #0000;
+    outline-offset: .6em;
+    font-size: 16px;
+  
+    border: 0;
+  
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+  }
+  
+  .button-892:hover,
+  .button-892:focus-visible{
+    --_p: 0px;
+    outline-color: var(--color);
+    outline-offset: .05em;
+  }
+  
+  .button-892:active {
+    background: var(--color);
+    color: #fff;
+  }
+  
+/* #mirror{
+    -webkit-box-reflect: above 210% linear-gradient(to above, rgba(0,0,0,0,3), rgba(0,0,0,0,6));
+} */
+
+#special{
+    padding-left: 110px;
+    padding-top: 100px;
+    font-size: 55px;
+}
+
+.logo{
+    -webkit-mask-image: url(Images/s.jpg);
+    mask-image: url(Images/s.jpg);
+    -webkit-mask-repeat: no-repeat;
+    mask-repeat: no-repeat;
+    -webkit-mask-size: 95%;
+    mask-size: 95%;
+}
+
+#logo_size{
+    height: 300px;
+    width: 300px;
+    margin-left: 200px;
+}
+
+#finland{
+    width: 50px;
+    height: 50px;
+}
+#link{
+    padding: 300px;
+}
+
+.images_images{
+    float: right;
+    width: 30%;
+}
+
+.text{
+    float: right;
+    width: 70%;
+    color: teal;
+    padding-top: 10px;
+}
+
+.group:after{
+    content: "";
+    display: table;
+    clear: both;
+}
+
+#text_text{
+    text-align: center;
+}
